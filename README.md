@@ -1,2 +1,2 @@
-# mit-cs-course
+# MIT-CS-Course
 MIT CS Course
